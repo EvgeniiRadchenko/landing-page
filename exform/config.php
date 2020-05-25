@@ -1,7 +1,7 @@
 <?php
 if(!isset($_REQUEST["mf_path"]) && !isset($_REQUEST["mf_captcha_code"])) die("Restricted access");
 class mform_config{
-	public $mail = 'bio-7@bk.ru'; //e-mail, на который должны отправлятся сообщения
+	public $mail = ''; //e-mail, на который должны отправлятся сообщения
 	public $mail_subject = 'Новое сообщение отправленное с сайта';
 	public $mail_from = '';
 	public $form_header = 'Форма обратной связи';
