@@ -241,7 +241,7 @@
 	}
 
 	.first__screen-desc p {
-		font-size: 28px;
+		font-size: 22px;
 		margin-bottom: 10px;
 	}
 
@@ -405,9 +405,9 @@
 		height: 100%;
 		background: #fff;
 		background: rgb(255,255,255);
-	background: -webkit-linear-gradient(38deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(48,172,24,1) 76%);
-	background: -o-linear-gradient(38deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(48,172,24,1) 76%);
-	background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(48,172,24,1) 76%);
+		background: -webkit-linear-gradient(38deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(48,172,24,1) 76%);
+		background: -o-linear-gradient(38deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(48,172,24,1) 76%);
+		background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(48,172,24,1) 76%);
 		list-style-type: none;
 		display: -webkit-flex;
 		display: -moz-flex;
